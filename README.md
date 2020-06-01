@@ -1,0 +1,3 @@
+- Assignment for The Unix Workbench from Rex: Guessing Game
+- 2020-06-01 21:38:00
+- guessinggame.sh has 22 lines
